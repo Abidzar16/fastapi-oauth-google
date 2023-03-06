@@ -6,5 +6,5 @@
 - Buat file `run.sh` menjadi executable `chmod +x run.sh`
 - Jalankan executable : `./run.sh`
 
-sumber referensi: https://blog.hanchon.live/guides/google-login-with-fastapi/
+sumber referensi: https://blog.hanchon.live/guides/google-login-with-fastapi/ \
 catatan: ada modifikasi sedikit dari sumber referensi
